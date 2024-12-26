@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+#nav{
+    background-color: black;
+    position: sticky;
+    top: 0;
+    padding-bottom: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+a{
+    color: white;
+}
+
+.text{
+    text-align: center;
+    color: white;
+    margin-right: 150px;
+    padding-top: 90px;
+    margin-left: 150px;
+    font-size: 100px;
+}
+
+.blog{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
