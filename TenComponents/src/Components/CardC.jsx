@@ -4,7 +4,7 @@ const CardC = () => {
     return (
         <>
             <div class="CD">
-                <ul>
+                <ul id="divUl">
                     <li>ABCD</li>
                     <li>EFGH</li>
                     <li>IJKL</li>
