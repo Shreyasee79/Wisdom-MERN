@@ -1,0 +1,34 @@
+.CD{
+    height: 300px;
+    width: 300px;
+    background-image: linear-gradient(#ffb8b8, #7efff5);
+    border-radius: 7%;
+}
+
+div ul{
+    font-size: larger;
+    font-weight: 400;
+    line-height: 1.5;
+    list-style-position: inside;
+    text-align: center;
+    padding-top: 80px;
+}
+
+form{
+    padding: 20px;
+    margin-top: 45px;
+    font-size: large;
+}
+
+input[type="submit"]{
+    background-color: #7efff5;
+    padding: 5px;
+    font-size: large;
+    margin-top: 5px;
+}
+
+input[type="email"], input[type="text"]{
+    font-size: large;
+    width: 60%;
+    margin: 20px;
+}

@@ -4,4 +4,8 @@
     width: 100%;
     align-content: center;
     text-align: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
 }

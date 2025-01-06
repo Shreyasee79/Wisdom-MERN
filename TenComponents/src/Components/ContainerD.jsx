@@ -1,10 +1,13 @@
+import CardC from './CardC'
+import CardD from './CardD'
 import './ContainerB.css'
 
 const ContainerD = () => {
     return (
         <>
             <section class="BD">
-                <img src="tech.jpg" alt="Technology" />
+                <CardC/>
+                <CardD/>
             </section>
         </>
     )

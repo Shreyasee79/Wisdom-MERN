@@ -4,7 +4,7 @@ const ContainerC = () => {
     return (
         <>
             <section class="AC">
-                <img src="tech.jpg" alt="Technology" />
+                <img src="connect.jpg" alt="Technology" />
             </section>
         </>
     )
