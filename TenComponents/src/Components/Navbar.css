@@ -6,7 +6,6 @@ nav{
     flex-direction: row;
     justify-content: space-between;
     color: goldenrod;
-    position: sticky;
 }
 
 nav ul{
