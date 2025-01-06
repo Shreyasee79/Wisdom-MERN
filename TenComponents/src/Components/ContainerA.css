@@ -1,0 +1,13 @@
+.AC {
+    background-image: linear-gradient(#ffb8b8, #7efff5);
+    height: 500px;
+    width: 100%;
+    align-content: center;
+    text-align: center;
+}
+
+section img {
+    margin-top: 100px;
+    height: 400px;
+    width: 700px;
+}
