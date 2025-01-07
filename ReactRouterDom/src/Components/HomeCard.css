@@ -1,0 +1,9 @@
+.sem{
+    height: 200px;
+    width: 200px;
+    /* background-image: linear-gradient(#ffb8b8, #7efff5); */
+    background-image: url("homebg.jpg");
+    border-radius: 7%;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
