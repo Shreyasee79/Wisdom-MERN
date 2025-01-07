@@ -1,0 +1,71 @@
+#contact{
+    background-image: linear-gradient(to top,#fd79a8,#a29bfe,#74b9ff);
+    height: 70vh;
+    width: 100;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#chead{
+    font-size: 3rem;
+    font-weight: bolder;
+    color: #fd79a8;
+    text-align: center;
+    background-color: #74b9ff;
+    padding: 2rem 0px;
+}
+
+#cinfo{
+    height: 350px;
+    width: 350px;
+    background-color: gray;
+    border: 2px solid rgb(109, 106, 106);
+    padding: 18px 3rem;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+#cmsg{
+    height: 350px;
+    width: 350px;
+    background-color: whitesmoke;
+}
+
+#cform{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: space-evenly;
+    padding-top: 20px;
+    padding: 20px 50px;
+    justify-self: center;
+    background-color: aliceblue;
+}
+
+form input{
+    height: 3rem;
+    padding: 5px;
+    font-size: larger;
+}
+
+form input[type="submit"]{
+    width: 30%;
+    background-color: #74b9ff;
+    border-radius: 7%;
+    border: 2px solid #4897e5;
+    color: aliceblue;
+    margin-top: 20px;
+}
+
+form textarea{
+    padding: 5px;
+    height: 5rem;
+    font-size: 1.2rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+form label{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.2rem;
+}

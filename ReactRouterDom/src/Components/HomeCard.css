@@ -1,9 +1,22 @@
 .sem{
-    height: 200px;
+    height: 180px;
     width: 200px;
-    /* background-image: linear-gradient(#ffb8b8, #7efff5); */
-    background-image: url("homebg.jpg");
+    background-image: url("logo2.png");
+    background-size: 102%;
     border-radius: 7%;
     margin-top: 2rem;
     margin-bottom: 2rem;
+}
+
+.sem h2{
+    color: aqua;
+    text-align: center;
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.sem ul{
+    padding-left: 3.5rem;
+    color: aqua;
+    font-weight: bold;
 }

@@ -1,11 +1,19 @@
 #home{
+    padding-top: 2rem;
     height: 100vh;
     width: 100%;
+    background-color: black;
 }
 
 .years{
-    background-color: aquamarine;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+}
+
+#heading{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bolder;
+    color: goldenrod;
 }

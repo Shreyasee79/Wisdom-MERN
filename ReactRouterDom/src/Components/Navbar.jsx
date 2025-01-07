@@ -6,7 +6,7 @@ const Navbar = () => {
     return (
         <>
             <nav>
-                <img src="logo1.png" alt="Books" />
+                <img src="logo.jpg" alt="Books" />
                 <ul>
                     <Link style={{textDecoration:'none', color:'goldenrod'}} to={'/'}><li>Home</li></Link>
                     <Link style={{textDecoration:'none', color:'goldenrod'}} to={'/explore'}><li>Explore</li></Link>

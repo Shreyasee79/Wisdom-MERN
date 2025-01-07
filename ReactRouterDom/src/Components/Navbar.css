@@ -3,6 +3,7 @@ nav{
     flex-direction: row;
     justify-content: space-between;
     background-color: black;
+    border: 2px solid rgba(248, 248, 248, 0.452);
 }
 
 nav ul{
@@ -21,4 +22,5 @@ nav img{
     height: 5rem;
     width: 5rem;
     margin-left: 10px;
+    border-radius: 50%;
 }

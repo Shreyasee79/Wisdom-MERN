@@ -1,0 +1,25 @@
+#explore{
+    background-image: linear-gradient(to top,#00b894,#55efc4,#ffeaa7);
+}
+
+.bookRow{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 30px 0px;
+}
+
+.book{
+    background-color: #0984e3;
+    height: 350px;
+    width: 300px;
+    padding: 0px 20px;
+    border-radius: 16%;
+}
+
+.book img{
+    height: 250px;
+    width: 200px;
+    margin: 20px 30px;
+}
