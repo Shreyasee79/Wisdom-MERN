@@ -1,0 +1,21 @@
+.search-bar {
+    display: flex; /* Align input and button horizontally */
+}
+
+.search-box {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 5px; /* Add some space between input and button */
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.search-bar button {
+    padding: 8px 12px;
+    background-color: #4CAF50; 
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
